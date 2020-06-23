@@ -1,0 +1,3 @@
+include ':airhockeylib', ':mm-android-ad-sdk'
+include ':mopubsdk'
+include ':airhockeyfree'
